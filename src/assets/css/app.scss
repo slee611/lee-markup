@@ -1,0 +1,36 @@
+body {
+	background-color: #fdfff4;
+-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.container {
+font-color: black;
+max-width: 750px;
+margin: 0 auto;
+}
+
+img {
+	width: 100%;
+}
+
+.headline {
+	font-size: 60px;
+	line-height: 60px;
+	font-family:garamond;
+}
+
+.by{
+	font-size: 20px;
+	font-family: arial;
+	font-color: grey;
+}
+.date{
+	font-size: 15px;
+	font-family: Helvetica;
+	font-color: grey;
+}
+.body {
+	font-family: Georgia;
+	font-size: 22px;
+	line-height: 35px;
+} 
